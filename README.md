@@ -31,7 +31,7 @@ of digital hardware concepts using Verilog HDL.
 - `sequential/` – Sequential circuit designs
 - `testbenches/` – Simulation testbenches
 - `waveforms/` – Simulation waveform files
-- `notes/` – Digital logic and Verilog notes
+- `notes/` - Digital logic notes, Verilog notes, errors, and questions
 
 ## Current Progress
 
