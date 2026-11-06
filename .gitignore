@@ -1,0 +1,7 @@
+# Simulation output files
+*.vvp
+*.vcd
+*.out
+
+# Temporary files
+*.log
